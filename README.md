@@ -21,7 +21,7 @@ Hello! I'm John, a passionate Full Stack Developer with a strong knack for creat
 - RESTful API design
 
 ### UX Design
--User research
+- User research
 - Wireframing and prototyping
 - UI/UX testing
 - Interaction design
